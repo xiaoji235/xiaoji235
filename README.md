@@ -7,7 +7,7 @@
 </p>
   <p align="center">
     <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
-    <img src="https://github.com/xiaoji235/xiaoji235/blob/output/github-contribution-grid-snake.svg" 
+    <img src="https://github.com/xiaoji235/xiaoji235/blob/main/github-user-contribution.svg" 
        alt="Contribution eating Snake" />
     </a>
   </p>
