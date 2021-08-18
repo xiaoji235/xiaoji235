@@ -1,16 +1,13 @@
 ### Hi there 👋
-
-<!--
-**xiaoji235/xiaoji235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body style="background-color: beige;background-image: url(morty.png);background-repeat: no-repeat;background-position: right bottom;">
+<p align="center">
+  <a href="https://github.com/xiaoji235">
+    <img src="https://github-profile-trophy.vercel.app/?username=xiaoji235&theme=gruvbox" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/xiaoji235">
+    <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" />
+  </a>
+</p>
+</body>
