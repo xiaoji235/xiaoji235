@@ -11,5 +11,5 @@
     </a>
   </p>
 <p align="right">
-<a herf="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/morty.png"></a>
+<img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/morty.png">
 </p>
