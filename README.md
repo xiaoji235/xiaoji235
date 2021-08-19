@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-<p>
+    
+<p align="center">
+    <p>
     <a herf="https://b23.tv/mOK9WD">
     <img src="https://img.shields.io/badge/bilibili-%E2%89%A5%20200%20follows-red"/>
     </a>
@@ -10,8 +11,7 @@
     <img src="https://img.shields.io/badge/coolapk-%E2%89%A5%201500%20follows-brightgreen"/>
     </a>
 </p>
-    
-<p align="center">
+
   <a href="https://github.com/xiaoji235">
     <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" />
     <img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/morty.png">
