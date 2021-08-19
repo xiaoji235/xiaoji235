@@ -5,8 +5,6 @@
     <a herf="https://b23.tv/mOK9WD">
     <img src="https://img.shields.io/badge/bilibili-%E2%89%A5%20200%20follows-red"/>
     </a>
-    </p>
-    <p>
     <a herf="http://www.coolapk.com/u/2899433">
     <img src="https://img.shields.io/badge/coolapk-%E2%89%A5%201500%20follows-brightgreen"/>
     </a>
