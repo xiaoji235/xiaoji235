@@ -10,7 +10,7 @@
 ### 我的贡献 😃
   <p align="center">
     <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
-    <img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/github-user-contribution.svg" 
+    <img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/blob/output/github-contribution-grid-snake.svg" 
        alt="Contribution eating Snake" />
     </a>
   </p>
