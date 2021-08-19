@@ -6,7 +6,7 @@
     </a>
     
     <a herf="http://www.coolapk.com/u/2899433">
-    <img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-%E2%89%A5%201500%20follows-brightred"/>
+    <img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-%E2%89%A5%201500%20follows-brightgreen"/>
     </a>
 </p>
     
