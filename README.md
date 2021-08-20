@@ -2,7 +2,8 @@
     
 <p align="center">
   <a href="https://github.com/xiaoji235">
-    <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" />&nbsp
+    <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/morty.png">
   </a>
 </p>
