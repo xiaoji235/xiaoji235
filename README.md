@@ -19,5 +19,5 @@
 <p align="center"> 
   您是这里的第<br>
   <img src="https://profile-counter.glitch.me/xiaoji235/count.svg" /><br>
-    位参观者！
+    位Guest！欢迎！
 </p>
