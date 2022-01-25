@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <!--<img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/morty.png">-->
-      <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif">
+      <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif" width=100px>
   </a>
 </p>
   
