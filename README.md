@@ -7,7 +7,7 @@
     <!--<img src="https://cdn.staticaly.com/gh/xiaoji235/xiaoji235/main/ralsei.gif" width="300px">-->
   </a>
   <a href="https://github.com/xiaoji235">
-    <img src="https://cdn.staticaly.com/gh/xiaoji235/xiaoji235/main/ralsei.gif" width="300px">
+    <img src="https://cdn.staticaly.com/gh/xiaoji235/xiaoji235/main/ralsei.gif" style="width:300px">
   </a>
     </div>
 </p>
