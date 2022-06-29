@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://github.com/xiaoji235">
     <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
-    <img src="https://cdn.staticaly.com/gh/xiaoji235/xiaoji235/main/ralsei.gif" width="270px"/>
+      ![](https://dl.img.timecdn.cn/2022/01/25/ralsei.md.gif)
+    <!--<img src="https://cdn.staticaly.com/gh/xiaoji235/xiaoji235/main/ralsei.gif" width="300px"/>-->
   </a>
 </p>
   
