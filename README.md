@@ -16,7 +16,7 @@
   </p>
 
 <p align="center"> 
-  您是这里的第<br>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&center=true&vCenter=true&lines=%E6%82%A8%E6%98%AF%E8%BF%99%E9%87%8C%E7%9A%84%E7%AC%AC;%E4%BD%8DGuest%EF%BC%81%E6%AC%A2%E8%BF%8E%EF%BC%81)](https://git.io/typing-svg)<br>
   <img src="https://profile-counter.glitch.me/xiaoji235/count.svg" /><br>
     位Guest！欢迎！
 </p>
