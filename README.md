@@ -33,7 +33,7 @@
 
 
 <!--计数君-->
-<p align="left">
+<p float="left">
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&center=true&vCenter=true&lines=%E6%82%A8%E6%98%AF%E8%BF%99%E9%87%8C%E7%9A%84%E7%AC%AC" style="max-width: 100%;">
     <br>
@@ -43,7 +43,7 @@
 </p>
 
 
-<p align="right">
+<p float="right">
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&center=true&vCenter=true&width=160&height=30&lines=%E5%9C%A8%E5%93%AA%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E6%88%91%EF%BC%9F" 
        alt="在哪可以找到我？" /><br>
