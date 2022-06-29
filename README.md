@@ -1,6 +1,5 @@
-### Hi there 👋
-  <p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=000000&vCenter=true&lines=Hi+there+%F0%9F%91%8B" 
+<p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=38C2FFFF&vCenter=true&lines=Hi+there+%F0%9F%91%8B" 
        alt="Hi there 👋" />
     </a>
   </p>
