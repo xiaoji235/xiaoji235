@@ -33,7 +33,7 @@
 
 
 <!--计数君-->
-<a align="left;">
+<a align="left">
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&center=true&vCenter=true&lines=%E6%82%A8%E6%98%AF%E8%BF%99%E9%87%8C%E7%9A%84%E7%AC%AC" style="max-width: 100%;">
     <br>
