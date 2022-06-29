@@ -1,5 +1,10 @@
 ### Hi there 👋
-    <p><img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=000000&vCenter=true&lines=Hi+there+%F0%9F%91%8B"/></p>
+  <p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=000000&vCenter=true&lines=Hi+there+%F0%9F%91%8B" 
+       alt="Hi there 👋" />
+    </a>
+  </p>
+  
 <p align="center">
   <a href="https://github.com/xiaoji235">
     <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
