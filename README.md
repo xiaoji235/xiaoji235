@@ -40,7 +40,7 @@
        alt="酷安" />
 <a href=" https://b23.tv/YM84p0F">
 <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/b5142750ac30b6f7f021a32bddf525873a39876f/svgs/bilibili.svg" 
-       alt="bilibili" />
+       alt="bilibili" /> 
 </p>
 
 
