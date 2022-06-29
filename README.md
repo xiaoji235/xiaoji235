@@ -34,7 +34,7 @@
 
 <!--计数君-->
 <p align="center"> 
-    <a display="flex">
+    <a display="flex" text-align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&center=true&vCenter=true&lines=%E6%82%A8%E6%98%AF%E8%BF%99%E9%87%8C%E7%9A%84%E7%AC%AC" style="max-width: 100%;">
     <br>
   <img src="https://profile-counter.glitch.me/xiaoji235/count.svg" /><br>
