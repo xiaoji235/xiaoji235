@@ -37,10 +37,10 @@
        alt="Where I am?" /><br>
         <a href="https://coolapk.com/">
         <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/b5142750ac30b6f7f021a32bddf525873a39876f/svgs/kuan.svg" 
-       alt="酷安" />
+       alt="酷安" /></a>
 <a href=" https://b23.tv/YM84p0F">
 <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/b5142750ac30b6f7f021a32bddf525873a39876f/svgs/bilibili.svg" 
-       alt="bilibili" /> 
+       alt="bilibili" /></a>
 </p>
 
 
