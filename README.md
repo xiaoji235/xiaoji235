@@ -30,7 +30,7 @@
 
 
 <!--我在哪-->
-<p align="left"> 
+<p align="center"> 
 <img src="https://weather-icon.journeyad.repl.co/@hunan?v=1" align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=30&color=2C974B&center=true&vCenter=true&width=120&height=33&lines=%E6%88%91%E5%9C%A8%E5%93%AA%EF%BC%9F" alt="Where I am?" /><br>
         <a href="https://b23.tv/YM84p0F">
