@@ -60,8 +60,9 @@
 
 <!--地铁站都比你努力-->
   <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?
     <a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2DA44E&center=true&vCenter=true&width=435&lines=%E6%88%91%E7%9A%84%E7%9B%AE%E6%A0%87" alt="Typing SVG" />
+font=Fira+Code&pause=1000&color=2DA44E&center=true&vCenter=true&width=435&lines=%E6%88%91%E7%9A%84%E7%9B%AE%E6%A0%87" alt="Typing SVG" />
     <img src="https://img3.chouti.com/CHOUTI_20180820/937F980A793E47A4AE41637EE3728623_W1200H900.jpg?imageView2/1/q" width="50%" alt="地铁站都比你努力" />
     </a>
   </p>"
