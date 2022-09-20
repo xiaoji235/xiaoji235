@@ -57,10 +57,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=230&height=33&lines=%E4%BD%8DGuest%EF%BC%81%E6%AC%A2%E8%BF%8E%EF%BC%81" style="max-width: 100%;">
 </p>
 
-
+<br>
 <!--地铁站都比你努力-->
   <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=2DA44E&center=true&vCenter=true&width=435&lines=%E6%88%91%E7%9A%84%E7%9B%AE%E6%A0%87" alt="地铁站都比你努力" />
+<img src="https://readme-typing-svg.herokuapp.com?font=microsoft+yahei&size=40&pause=1000&color=2DA44E&center=true&vCenter=true&width=435&lines=%E6%88%91%E7%9A%84%E7%9B%AE%E6%A0%87" alt="Typing SVG" />
   </p>
   <p align="center">
     <a>
