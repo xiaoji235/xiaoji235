@@ -66,6 +66,5 @@
     <a href="https://jikipedia.com/definition/712467070">
     <img src="https://img3.chouti.com/CHOUTI_20180820/937F980A793E47A4AE41637EE3728623_W1200H900.jpg?imageView2/1/q" width="50%" alt="地铁站都比你努力" />
     </a>
-    <embed src="https://www.qijishow.com/" width="100%" height="100%" style="scrolling:no;"></embed>
   </p>
 
