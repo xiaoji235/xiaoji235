@@ -11,9 +11,10 @@
 ---
 
 
-<p align="center">
+
 <table>
 <tr>
+<p align="center">
 <!--计数板和ralsei-->
 <td width="60%" border="none">
   <a href="https://github.com/xiaoji235">
@@ -22,9 +23,9 @@
  <td width="40%" border="none">
     <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif!h.webp" width="300px"/>
  </td>
-</td>
-</tr>
 </p>
+</tr>
+</table>
 
 
 
