@@ -19,7 +19,8 @@
   </a>
 </p>
 
-
+<table>
+<tr>
 <td width="40%">
 <!--### 我的贡献 😃-->
 <p align="center">
@@ -39,6 +40,8 @@
 <!--计数牌-->
 <img src="https://stats.justsong.cn/api/bilibili/?id=420259074">
 </td>
+</tr>
+</table>
 <br>
 
 
