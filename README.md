@@ -1,9 +1,10 @@
 <!--### Hi there 👋-->
-<p align="left">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=38C2FFFF&vCenter=true&lines=Hi+there+%F0%9F%91%8B" 
        alt="Hi there 👋" />
 </p>
   
+---
 
 <!--计数板和ralsei-->
 <p align="center">
@@ -13,12 +14,13 @@
   </a>
 </p>
 
+---
 
 <!--### 我的贡献 😃-->
-<p align="left">
+**<p align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=2C974B&vCenter=true&lines=%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE+%F0%9F%98%83" 
        alt="我的贡献 😃" />
-</p>
+</p>**
 
 
 <!--贪吃蛇-->
@@ -27,6 +29,8 @@
     <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/output/github-contribution-grid-snake.svg" alt="Contribution eating Snake" />
     </a>
   </p>
+
+---
 
 <!--我在哪-->
 <p align="center"> 
@@ -49,6 +53,9 @@
 <br>
 <br>
 
+
+---
+
 <!--计数君-->
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=180&height=33&lines=%E6%82%A8%E6%98%AF%E8%BF%99%E9%87%8C%E7%9A%84%E7%AC%AC" style="max-width: 100%;">
@@ -58,7 +65,7 @@
 
 <br>
 
-
+---
 
 <!--地铁站都比你努力-->
   <p align="center">
