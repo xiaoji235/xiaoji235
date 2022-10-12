@@ -20,6 +20,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
 <br>
 <br>
+<br>
+<br>
 <!--### 我的贡献 😃-->
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=30&color=2C974B&vCenter=true&lines=%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE+%F0%9F%98%83" 
        alt="我的贡献 😃" />
@@ -33,6 +35,8 @@
  <!--ralsei-->
  <td width="40%">
  <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif!h.webp" align="center" width="300px"/>
+<br>
+<br>
 <br>
 <br>
  <!--计数牌-->
