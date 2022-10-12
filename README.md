@@ -48,7 +48,7 @@
 
 ---
 <h2 align="center">
-  👨‍💻  领 域 小 白  👨‍💻
+  👨‍💻  涉 及 领 域 （小白）  👨‍💻
  </h2>
  <p align="center">
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/></a>
@@ -59,8 +59,9 @@
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/></a>
 </p>
----
 
+
+---
 
 <!--计数君-->
 <p align="center"> 
