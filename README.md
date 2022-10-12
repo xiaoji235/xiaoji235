@@ -50,10 +50,15 @@
 <h2 align="center">
   👨‍💻  领 域 小 白  👨‍💻
  </h2>
+ <p align="center">
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/></a>
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40"/></a>
+</p>
 ---
-<br>
+
+
 <!--计数君-->
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=180&height=33&lines=%E6%82%A8%E6%98%AF%E8%BF%99%E9%87%8C%E7%9A%84%E7%AC%AC" style="max-width: 100%;">
