@@ -2,6 +2,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=38C2FFFF&vCenter=true&lines=Hi+there+%F0%9F%91%8B" 
        alt="Hi there 👋" />
+       <img src="https://weather-icon.journeyad.repl.co/@hunan?v=1" align="left">
 </p>
 
 ---
@@ -31,7 +32,7 @@
   </p>
   
   
-  
+<!--  
 <!--我在哪-->
 <p align="center"> 
 <!--天气-->
@@ -42,7 +43,7 @@
         <a href="https://coolapk.com/">
         <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/b5142750ac30b6f7f021a32bddf525873a39876f/svgs/kuan.svg" alt="酷安" /></a>
 </p>
-
+-->
 
 <!--计数牌-->
  <!--<img src="https://stats.justsong.cn/api/bilibili/?id=420259074">-->
