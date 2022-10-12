@@ -14,41 +14,27 @@
 
 <table align="center">
 <tr>
-<!--计数板和ralsei-->
+<!--功勋墙-->
 <td width="60%" border="none">
   <a href="https://github.com/xiaoji235">
     <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
- </td>
- <td width="40%" border="none">
-    <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif!h.webp" width="300px"/>
- </td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-    
-<td width="60%" border="none">
+<br>
 <!--### 我的贡献 😃-->
-<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=2C974B&vCenter=true&lines=%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE+%F0%9F%98%83" 
        alt="我的贡献 😃" />
-</p>
-
-<!--贪吃蛇-->
-  <p align="center">
+<!--贪吃蛇-->   
     <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
-    <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/output/github-contribution-grid-snake.svg" alt="Contribution eating Snake" />
+    <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/output/github-contribution-grid-snake.svg" align="center" alt="Contribution eating Snake" />
     </a>
-  </p>
-  
 </td>
-<td width="40%" border="none">
-<!--计数牌-->
+ 
+ <!--ralsei-->
+ <td width="40%" border="none">
+ <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif!h.webp" width="300px"/>
+ <br>
+ <!--计数牌-->
 <img src="https://stats.justsong.cn/api/bilibili/?id=420259074">
-</td>
+ </td>
 </tr>
 </table>
 <br>
