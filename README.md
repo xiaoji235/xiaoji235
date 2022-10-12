@@ -20,8 +20,7 @@
 </p>
 
 <table>
-<tr>
-<td width="40%">
+<td width="60%">
 <!--### 我的贡献 😃-->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=2C974B&vCenter=true&lines=%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE+%F0%9F%98%83" 
@@ -36,11 +35,10 @@
   </p>
   
 </td>
-<td width="60%">
+<td width="40%">
 <!--计数牌-->
 <img src="https://stats.justsong.cn/api/bilibili/?id=420259074">
 </td>
-</tr>
 </table>
 <br>
 
