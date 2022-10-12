@@ -46,7 +46,12 @@
 </table>
 <br>
 
-
+---
+<h2 align="center">
+  👨‍💻  领 域 小 白  👨‍💻
+ </h2>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/></a>
 ---
 <br>
 <!--计数君-->
