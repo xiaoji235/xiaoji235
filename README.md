@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=38C2FFFF&vCenter=true&lines=Hi+there+%F0%9F%91%8B" 
        alt="Hi there 👋" />
-       <img src="https://weather-icon.journeyad.repl.co/@hunan?v=1" align="left">
+       <img src="https://weather-icon.journeyad.repl.co/@hunan?v=1" align="right">
 </p>
 
 ---
