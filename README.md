@@ -3,8 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=38C2FFFF&vCenter=true&lines=Hi+there+%F0%9F%91%8B" 
        alt="Hi there 👋" />
 </p>
-  
+
 ---
+
 
 <!--计数板和ralsei-->
 <p align="center">
@@ -13,7 +14,9 @@
     <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif!h.webp" width="300px"/>
   </a>
 </p>
----
+
+
+
 <!--### 我的贡献 😃-->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=2C974B&vCenter=true&lines=%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE+%F0%9F%98%83" 
@@ -26,7 +29,9 @@
     <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/output/github-contribution-grid-snake.svg" alt="Contribution eating Snake" />
     </a>
   </p>
----
+  
+  
+  
 <!--我在哪-->
 <p align="center"> 
 <!--天气-->
