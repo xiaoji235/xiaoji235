@@ -29,11 +29,11 @@
 <table>
 <tr>
 <!--计数板和ralsei-->
-<td width="60%" border="0">
+<td width="60%" border="none">
   <a href="https://github.com/xiaoji235">
     <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
  </td>
- <td width="40%" border="0">
+ <td width="40%" border="none">
     <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif!h.webp" width="300px"/>
  </td>
 </td>
@@ -42,7 +42,7 @@
 <table>
 <tr>
     
-<td width="60%" border="0">
+<td width="60%" border="none">
 <!--### 我的贡献 😃-->
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=2C974B&vCenter=true&lines=%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE+%F0%9F%98%83" 
@@ -57,7 +57,7 @@
   </p>
   
 </td>
-<td width="40%" border="0">
+<td width="40%" border="none">
 <!--计数牌-->
 <img src="https://stats.justsong.cn/api/bilibili/?id=420259074">
 </td>
