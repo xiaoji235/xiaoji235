@@ -70,3 +70,4 @@
     <img src="https://img3.chouti.com/CHOUTI_20180820/937F980A793E47A4AE41637EE3728623_W1200H900.jpg?imageView2/1/q" width="50%" alt="地铁站都比你努力" />
     </a>
   </p>
+![底部动画](https://github.com/xiaoji235/xiaoji235/blob/main/wave.svg?raw=true)
