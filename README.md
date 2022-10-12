@@ -16,11 +16,11 @@
 
 ---
 
-<!--### 我的贡献 😃-->
-**<p align="left">
+**<!--### 我的贡献 😃-->**
+<p align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=2C974B&vCenter=true&lines=%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE+%F0%9F%98%83" 
        alt="我的贡献 😃" />
-</p>**
+</p>
 
 
 <!--贪吃蛇-->
