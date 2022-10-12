@@ -29,6 +29,7 @@
 <table>
 <tr>
     
+<!--计数板和ralsei-->
 <td width="60%">
   <a href="https://github.com/xiaoji235">
     <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;float: left;margin-top: 50px;"/>
@@ -36,7 +37,7 @@
  <td width="40%">
     <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif!h.webp" width="300px"/>
  </td>
-    
+ <br>  
     
     
     
