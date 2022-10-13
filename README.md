@@ -51,7 +51,7 @@
 ---
 <br>
 <h2 align="center">
-  👨‍💻   涉 及 领 域 （小白）  👨‍💻
+  👨‍💻   涉及领域（小白）  👨‍💻
  </h2>
  <p align="center">
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/></a>&nbsp;&nbsp;
