@@ -65,7 +65,7 @@
 <br>
 <!--前往主页-->
 <p align="center"> 
-<a href="https://xiaoji235.github.io"/><img src="https://img.shields.io/badge/%E5%89%8D%E5%BE%80%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5-000?style=for-the-badge&logo=ghost&logoColor=yellow" width="20%"/></a>
+<a href="https://xiaoji235.github.io"/><img src="https://img.shields.io/badge/%E5%89%8D%E5%BE%80%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5-000?style=for-the-badge&logo=ghost&logoColor=yellow" width="170px" height="40px"/></a>
 </p>
 <br>
 
