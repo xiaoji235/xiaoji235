@@ -58,12 +58,12 @@
  <p align="center">
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Photoshop.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/RaspberryPi-Dark.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/css.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Dark.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Dark.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Nginx.svg" width="40"/></a>
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/wordpress.svg" width="40"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Wordpress.svg" width="40"/></a>
 </p>
 
 
