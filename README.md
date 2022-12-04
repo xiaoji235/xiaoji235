@@ -53,15 +53,20 @@
 <h2 align="center">
   👨‍💻   涉及领域（小白）  👨‍💻
  </h2>
+ 
+ <!--havicons-->
  <p align="center">
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>&nbsp;&nbsp;
-<a href="#"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Photoshop.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/RaspberryPi-Dark.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/css.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Dark.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Dark.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Nginx.svg" width="40"/></a>
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/wordpress.svg" width="40"/></a>
 </p>
+
+
 <br>
 <!--前往主页-->
 <p align="center"> 
