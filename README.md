@@ -12,7 +12,7 @@
 
 
 
-<table align="center" style="top:-20%">
+<table align="center">
 <tr>
 <!--功勋墙-->
 <td width="60%" border="none">
