@@ -8,8 +8,10 @@
 <br>
 </p>
 
----
+<!--分割线-->
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/line.gif"/>
+</p>
 
 
 <table align="center">
@@ -47,8 +49,12 @@
 </table>
 <br>
 
+<!--分割线-->
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/line.gif"/>
+</p>
 
----
+
 <br>
 <h2 align="center">
   👨‍💻   涉及领域（小白）  👨‍💻
@@ -74,7 +80,12 @@
 </p>
 <br>
 
----
+<!--分割线-->
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/line.gif"/>
+</p>
+
+
 <br>
 <!--计数君-->
 <p align="center"> 
