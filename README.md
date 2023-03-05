@@ -1,8 +1,15 @@
 <!--# Hi there 👋-->
 <p align="center">
     <img src="https://weather-icon.journeyad.repl.co/@hunan?v=1" align="right"><br>
+    
+    
+    <img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/svgs/hello.svg" alt="Hi there 👋" align="left"/>
+    
+<!--
     <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+Yahei&size=40&color=38C2FFFF&vCenter=true&lines=Hi+there+%F0%9F%91%8B" 
        alt="Hi there 👋" align="left"/>
+-->
+
 <br>
 <br>
 <br>
