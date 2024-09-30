@@ -86,7 +86,8 @@
     
 </td>
 <td>
-
+<!--spotify profile-->
+    
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uoordnuvagj3bytbyy46nc4xge&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=64c466&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uoordnuvagj3bytbyy46nc4xge&redirect=true)
 
 </td>
