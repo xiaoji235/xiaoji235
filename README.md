@@ -38,7 +38,7 @@
  
  <!--ralsei-->
  <td width="40%">
- <img src="https://dl.img.timecdn.cn/2022/01/25/ralsei.gif!h.webp" align="center" width="300px"/>
+ <img src="https://raw.githubusercontent.com/xiaoji235/xiaoji235/master/ralsei.gif" align="center" width="300px"/>
 <br>
 <br>
 <br>
