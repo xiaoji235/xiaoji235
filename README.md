@@ -100,7 +100,7 @@
 
 
 
-<!--分割线-->
+<!--分割线--><!--
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/line.gif"/>
 </p>
@@ -112,6 +112,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=180&height=33&lines=%E6%82%A8%E6%98%AF%E8%BF%99%E9%87%8C%E7%9A%84%E7%AC%AC" style="max-width: 100%;">
   <img src="https://profile-counter.glitch.me/xiaoji235/count.svg" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=microsoft+yahei&size=30&center=true&vCenter=true&width=230&height=33&lines=%E4%BD%8DGuest%EF%BC%81%E6%AC%A2%E8%BF%8E%EF%BC%81" style="max-width: 100%;">
-</p>
+</p>-->
   
 ![buttom wave](https://github.com/xiaoji235/xiaoji235/blob/main/wave.svg?raw=true)
