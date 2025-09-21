@@ -72,6 +72,7 @@
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Dark.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Nginx.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Wordpress.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="#"/><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" width="40"/></a>&nbsp;&nbsp;
 <a href="#"/><img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/v2ray.png" width="43"/></a>
 </p>
 
