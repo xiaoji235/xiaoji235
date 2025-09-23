@@ -44,8 +44,8 @@
 <br>
 <br>
  <!--计数牌-->
-<a href="https://b23.tv/baqD8N8">
-<img src="https://stats.justsong.cn/api/bilibili/?id=420259074" align="center"></a>
+<!--<a href="https://b23.tv/baqD8N8">-->
+<img src="https://stats.justsong.cn/api/github?username=xiaoji235" align="center"></a>
  </td>
 </tr>
 </table>
