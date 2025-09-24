@@ -1,6 +1,6 @@
 <!--# Hi there 👋-->
 <p align="center">
-    <img src="https://weather-icon-api.vercel.app/" align="right"><br>
+    <img src="https://weather-icon-api.vercel.app/" align="right" width="100"><br>
     <img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/svgs/hello2.svg" align="left" width="340"><br>
 </p>
 <br>
