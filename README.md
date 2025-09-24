@@ -1,6 +1,6 @@
 <!--# Hi there 👋-->
 <p align="center">
-    <p>烟台天气：</p><img src="https://weather-icon-api.vercel.app/" align="right" width="150"><br>
+    <img src="https://weather-icon-api.vercel.app/" align="right" width="150"><br>
     <img src="https://cdn.jsdelivr.net/gh/xiaoji235/xiaoji235/svgs/hello2.svg" align="left" width="340"><br>
 </p>
 <br>
