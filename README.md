@@ -78,21 +78,9 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td>
 <!--前往主页-->
 <p align="center"> 
-<a href="https://xiaoji235.github.io"/><img src="https://img.shields.io/badge/%E5%89%8D%E5%BE%80%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5-000?style=for-the-badge&logo=ghost&logoColor=yellow" align="right" width="170px" height="40px"/></a></p>
-    
-</td>
-<td>
-<!--spotify profile-->
-    
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uoordnuvagj3bytbyy46nc4xge&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=64c466&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uoordnuvagj3bytbyy46nc4xge&redirect=true)
-
-</td>
-</tr>
-</table>
+    <blockquote align="center" border-left="0"><kbd><code>Alert                      - □ ×</code><br><a href="https://xiaoji235.github.io"/><img src="https://img.shields.io/badge/%E5%89%8D%E5%BE%80%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5-000?style=for-the-badge&logo=ghost&logoColor=yellow" align="center" width="170px" height="40px"/></kbd></blockquote>
+</p>
   
 ![buttom wave](https://github.com/xiaoji235/xiaoji235/blob/main/wave.svg?raw=true)
