@@ -19,9 +19,8 @@
 <!--功勋墙-->
 <td width="60%" border="none">
   <a href="https://github.com/xiaoji235">
-    <img src="https://github-readme-stats.vercel.app/api?username=xiaoji235&theme=gruvbox&show_icons=true" style="max-width: 100%;display: flex;center: left;margin-top: 50px;"/>
-<br>
-<br>
+    <img src="https://github.com/xiaoji235/github-stats-terminal-style/raw/refs/heads/master/github_stats.svg" style="max-width: 100%;display: flex;center: left;margin-top: 50px;"/>
+
 <br>
 <br>
 <!--### 我的贡献 😃-->
